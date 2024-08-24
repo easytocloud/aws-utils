@@ -1,3 +1,10 @@
+## [0.10.3](https://github.com/easytocloud/aws-utils/compare/v0.10.2...v0.10.3) (2024-08-24)
+
+
+### Bug Fixes
+
+* cleanup of output ([e633896](https://github.com/easytocloud/aws-utils/commit/e633896c9aacc03c5eac7e560574f02c6e784e8f))
+
 ## [0.10.2](https://github.com/easytocloud/aws-utils/compare/v0.10.1...v0.10.2) (2024-08-24)
 
 
