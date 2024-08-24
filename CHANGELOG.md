@@ -1,3 +1,10 @@
+## [0.10.1](https://github.com/easytocloud/aws-utils/compare/v0.10.0...v0.10.1) (2024-08-24)
+
+
+### Bug Fixes
+
+* fixed dependency error ([b7d5e3e](https://github.com/easytocloud/aws-utils/commit/b7d5e3e1fd7ee7fa3af008a9197173dff8ef6b60))
+
 # [0.10.0](https://github.com/easytocloud/aws-utils/compare/v0.9.0...v0.10.0) (2024-08-24)
 
 
