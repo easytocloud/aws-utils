@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cat <<EOF
+aws-utils is now a wrapper for multiple easytocloud aws cli utilities
+EOF
