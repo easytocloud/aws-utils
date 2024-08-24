@@ -8,4 +8,5 @@ aws-utils is now a wrapper to install multiple easytocloud aws-cli utilities
 - for-tools
 - sso-tools
 - iamhere
+
 EOF
