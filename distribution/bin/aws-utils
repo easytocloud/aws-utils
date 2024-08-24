@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
 cat <<EOF
-aws-utils is now a wrapper for multiple easytocloud aws cli utilities
+aws-utils is now a wrapper to install multiple easytocloud aws-cli utilities
+
+- codecommit-utils
+- akskrotate
+- aws-profile-organizer
+- for-tools
+- sso-tools
+- iamhere
 EOF
