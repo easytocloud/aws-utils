@@ -59,12 +59,12 @@ jobs:
           # Custom dependencies in case other formulas are needed to build the current one.
           # Optional - multiline string.
           depends_on: |
-            easytocloud/tap/codecommit-utils
-            easytocloud/tap/akskrotate
-            easytocloud/tap/aws-profile-organizer
-            easytocloud/tap/for-tools
-            easytocloud/tap/sso-tools
-            easytocloud/tap/iamhere
+            "easytocloud/tap/codecommit-utils"
+            "easytocloud/tap/akskrotate"
+            "easytocloud/tap/aws-profile-organizer"
+            "easytocloud/tap/for-tools"
+            "easytocloud/tap/sso-tools"
+            "easytocloud/tap/iamhere"
 
           # Custom install command for your formula.
           # Required - string.
